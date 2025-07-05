@@ -184,3 +184,49 @@ make deploy
 - Nov 2020 - New GitHub pipelines & container registry
 - Jun 2020 - Moved to NuGet for the Microsoft.Identity.Web
 - Jan 2020 - Rewritten from scratch
+
+
+Commands
+
+65  git clone https://github.com/abheesree/Lcode.git
+   66  ls
+   67  cd Multi-Tier-With-Database/
+   68  ls
+   69  cd ..
+   70  cd Lcode/
+   71  ls
+   72  cd DotNET-Monitoring-Project-main/
+   73  ls
+   74  cd  src/
+   75  ls
+   76  sudo apt update
+   77  ls
+   78  cd Lcode/
+   79  ls
+   80  cd DotNET-Monitoring-Project-main/
+   81  ls
+   82  cd src/
+   83  ls
+   84  car dotnet-demoapp.csproj
+   85  cat dotnet-demoapp.csproj
+   86  sudo apt-get update &&   sudo apt-get install -y dotnet-sdk-8.0
+   87  sudo apt-get update &&   sudo apt-get install -y aspnetcore-runtime-8.0
+   88  sudo apt-get install -y dotnet-runtime-8.0
+   89  cd ..
+   90  dotnet restore
+   91  cd src/
+   92  dotnet restore
+   93  ls
+   94  dotnet build
+   95  ls
+   96  cd bin/
+   97  ls
+   98  cd Debug/
+   99  ls
+  100  cd net8.0/
+  101  ls
+  102  cd ../
+  103  cd ..
+  104  dotnet run
+  105  dotnet test
+  106  history
