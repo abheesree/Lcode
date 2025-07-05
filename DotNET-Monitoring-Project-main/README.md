@@ -230,3 +230,6 @@ Commands
   104  dotnet run
   105  dotnet test
   106  history
+
+
+  https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install?tabs=dotnet8&pivots=os-linux-ubuntu-2410
